@@ -1,0 +1,6 @@
+node_modules
+.env
+servidor/cert
+servidor/build
+servidor/publico/bundle.js
+package-lock.json
